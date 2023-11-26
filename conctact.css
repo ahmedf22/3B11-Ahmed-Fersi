@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0a191b;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 100px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #00B07B;
+  }
+  .active {
+    background-color: #00B07B;
+  }
+  #div1 {
+    fon
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #0; 
+    float: left;
+    width: 30% ;
+    margin-top: 10px;
+  }
+  #div2 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-color: azure;
+    width: 60%;
+    float: right;
+    margin-top: 10px;
+  }
+
+  #socialmedia {
+    background-color: white;
+    color: black;
+    margin: 0px; 
+  }
+  dd {
+    margin: 10px;
+  }
